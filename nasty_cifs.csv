@@ -1,2 +1,5 @@
 id, reference, problem
-000,http://pubs.acs.org/doi/10.1021/acsami.7b07920, methyl groups have 6 hydrogens instead of 3
+000,http://pubs.acs.org/doi/10.1021/acsami.7b07920 converted to P1 and standardized with manage_crystal, methyl groups have 6 hydrogens instead of 3
+001,made, first and second atoms are the same
+002,raspa converted directly with manage crystal, there are only few atoms because I printed P1 without unwrapping the symmetry
+003,made, net charge of 1.6 electrons
