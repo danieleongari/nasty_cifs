@@ -4,3 +4,4 @@ id, reference, problem
 002,raspa converted directly with manage crystal, there are only few atoms because I printed P1 without unwrapping the symmetry
 003,made, net charge of 1.6 electrons
 004,https://github.com/core-cof/CoRE-COF-Database/blob/master/CoRE-COF-DT280-v2.0/120.cif, the unit cell should be 33.03 33.03 4.2 (http://xlink.rsc.org/?DOI=C6CC09906H) but it was parsed wrongly
+005,hkust-1 P1 conventional cell, this is the conventional cell but I would like to be noted that I can use a smaller primitive cell for running calculations
