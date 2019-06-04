@@ -1,2 +1,2 @@
 # Nasty CIFs
-## A collection of problematic cif structures
+A collection of problematic cif structures
