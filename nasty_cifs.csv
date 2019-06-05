@@ -7,3 +7,6 @@ id, reference, problem
 005,hkust-1 P1 conventional cell, this is the conventional cell but I would like to be noted that I can use a smaller primitive cell for running calculations
 006,DEYDOA_clean_min_charges from the 502 CoRE MOFs opt+DDEC, one metal is not in the right place (possibly it was on the boundary and it was not treated properly when deriving the primitive)
 007,MIL-127 from CCDC, Fe and Co atoms have partial occupancy and they are superimposed: this is a problem for simulations. The lone oxigen is probably OH or water. 
+008,Mercado2018 hCOF linker109_C_linker15_C_sql_relaxed_ch, I expect a 3D material but this is a 2D COF and the layers are too spaced (this unit cell would collapse upon relaxation)
+009,Mercado2018 hCOF linker92_C_linker10_C_hca_relaxed_ch, I expect a 3D material but this is a 2D COF and the layers are too spaced (this unit cell would collapse upon relaxation)
+010,Mercado2018 hCOF linker92_C_linker10_C_kgd-a_relaxed_ch, I expect a 3D material but this is a 2D COF and the layers are too spaced (this unit cell would collapse upon relaxation)
