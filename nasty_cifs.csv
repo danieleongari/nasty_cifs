@@ -18,3 +18,4 @@ id, reference, problem
 16,Znbttfbbc /  structure_comp,"several issues for me (besides missing H): The file contains a lot of information that I do not need: uncertainities in the positions and refinement information, "
 17,DMOF-NO2 / structure_comp,disorder groups marked by ? 
 18,MIP-200 / water database,something that is harder to catch. There are missing Hs on the oygens. Mercury works here.
+19,Cr-soc-mof-1,"after removing disorder group 2, there is still disorder. "
