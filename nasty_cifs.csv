@@ -19,3 +19,4 @@ id, reference, problem
 17,DMOF-NO2 / structure_comp,disorder groups marked by ? 
 18,MIP-200 / water database,something that is harder to catch. There are missing Hs on the oygens. Mercury works here.
 19,Cr-soc-mof-1,"after removing disorder group 2, there is still disorder. "
+20,dut-84-zr / water database,"node is disordered, protonation seems from. "
