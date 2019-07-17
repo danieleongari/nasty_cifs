@@ -21,3 +21,5 @@ id, reference, problem
 19,Cr-soc-mof-1,"after removing disorder group 2, there is still disorder. "
 20,dut-84-zr / water database,"node is disordered, protonation seems wrong. The disorder can here easily be removed by removing the atoms with A/B/C. Might be worth to attempt something like this automatically. "
 21,UTSA-74 ja6b02030_si_003, correctly unwrapped to P1 by vesta but not by ASE
+22,Al http://rruff.geo.arizona.edu/AMS/minerals/Aluminum,"ASE fails reading the spacegroup. ase.spacegroup.spacegroup.SpacegroupNotFoundError: invalid spacegroup F m 3 m, setting 1 not found in data base"
+
